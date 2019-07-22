@@ -16,7 +16,6 @@
 [proxy_list]
 
 # MyList
-(^|\.)gdaily\.org$
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
